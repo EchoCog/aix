@@ -22,6 +22,8 @@ We're always looking for suggestions to make our project better. If you have an 
 Documentation is crucial for understanding and using our project effectively.
 You can find the content of our docs under [`content`](https://github.com/vercel/ai/tree/main/content).
 
+For comprehensive technical architecture information, see [`docs/TECHNICAL_ARCHITECTURE.md`](./docs/TECHNICAL_ARCHITECTURE.md).
+
 To fix smaller typos, you can edit the code directly in GitHub or use Github.dev (press `.` in Github).
 
 If you want to make larger changes, please check out the Code Contributions section below. It also explains how to fix prettier issues that you might encounter during your docs changes.

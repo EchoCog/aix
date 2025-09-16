@@ -124,6 +124,10 @@ We've built [templates](https://vercel.com/templates?type=ai) that include AI SD
 
 The AI SDK community can be found on [GitHub Discussions](https://github.com/vercel/ai/discussions) where you can ask questions, voice ideas, and share your projects with other people.
 
+## Architecture
+
+For a comprehensive overview of the AI SDK's technical architecture, including system design, package organization, data flows, and integration patterns, see our [Technical Architecture Documentation](../../docs/TECHNICAL_ARCHITECTURE.md).
+
 ## Contributing
 
 Contributions to the AI SDK are welcome and highly appreciated. However, before you jump right into it, we would like you to review our [Contribution Guidelines](https://github.com/vercel/ai/blob/main/CONTRIBUTING.md) to make sure you have smooth experience contributing to AI SDK.
